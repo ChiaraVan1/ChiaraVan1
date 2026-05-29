@@ -12,7 +12,7 @@ Building LLM evaluation frameworks and analytics infrastructure for ed-tech at s
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[ERP Monitor](https://github.com/ChiaraVanl/equity-risk-premium-monitor)** | Daily equity risk premium tracker across 16 global indices, with win-rate / odds position framework. 16个全球指数的股权风险溢价每日监控，含胜率/赔率仓位框架。 | Python · akshare · FRED · GitHub Actions |
+| **[ERP Monitor](https://github.com/ChiaraVan1/equity-risk-premium-monitor)** | Daily equity risk premium tracker across 16 global indices, with win-rate / odds position framework. 16个全球指数的股权风险溢价每日监控，含胜率/赔率仓位框架。 | Python · akshare · FRED · GitHub Actions |
 | **[ETF Data Project](https://github.com/ChiaraVanl/ETF_data_project)** | Automated ETF screening and monitoring with scheduled inference. 全自动ETF筛选与监控流水线，支持无人值守运行。 | Python · Tushare · GitHub Actions |
 | **[Stock Valuation Bot](https://github.com/ChiaraVanl/stock_Valuation_bot)** | Dual-track stock valuation system with LLM analysis and WeChat push. 双轨估值系统，结合LLM分析与微信推送。 | Python · Claude API · GitHub Actions |
 | **[SmartInsight Chrome AI](https://github.com/ChiaraVanl/smart-insight-chrome-ai)** | Chrome built-in AI powered career assistant for LinkedIn analysis. 基于 Chrome 本地 AI 的 LinkedIn 职场助手。 | JavaScript · Gemini Nano · Chrome Extension |
