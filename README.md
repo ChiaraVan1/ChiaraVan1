@@ -15,7 +15,7 @@ Data Scientist · 5 years in AI analytics & applied ML · Python / LightGBM / BE
 | [ETF_data_project](https://github.com/ChiaraVan1/ETF_data_project) | Automated ETF screening pipeline · 全自动ETF筛选流水线 |
 | [stock_Valuation_bot](https://github.com/ChiaraVan1/stock_Valuation_bot) | Dual-track valuation + LLM analysis + WeChat push · 双轨估值+微信推送 |
 
-## 💼 职场 AI Workplace AI
+## 🔍 求职自动化 Job Search Tools
 > browser-side career intelligence → automated job discovery
 
 | | |
